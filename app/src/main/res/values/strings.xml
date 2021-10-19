@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+    <string name="passwordhint">Password</string>
+    <string name="emailhint">Email ID</string>
+    <string name="productlisttitle">Trending Products</string>
+    <string name="signintext">Sign in</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+</resources>

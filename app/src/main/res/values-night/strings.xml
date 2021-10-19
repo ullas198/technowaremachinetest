@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passwordhint">Password</string>
+    <string name="emailhint">Email ID</string>
+    <string name="signintext">Sign in</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="signinfontsize">26sp</dimen>
+    <dimen name="edfontsize">14sp</dimen>
+    <dimen name="forgotpasswordfontsize">12sp</dimen>
+    <dimen name="paddingleft">20sp</dimen>
+    <dimen name="itempaddingvalue">4sp</dimen>
+</resources>

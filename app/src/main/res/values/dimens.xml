@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margintop">50sp</dimen>
+    <dimen name="marginbottom">55sp</dimen>
+    <dimen name="signinfontsize">26sp</dimen>
+    <dimen name="edfontsize">14sp</dimen>
+    <dimen name="forgotpasswordfontsize">12sp</dimen>
+    <dimen name="paddingleft">20sp</dimen>
+    <dimen name="paddingright">20sp</dimen>
+    <dimen name="rvpaddingtop">8sp</dimen>
+    <dimen name="itempaddingvalue">4sp</dimen>
+</resources>
